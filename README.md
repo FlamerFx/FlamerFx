@@ -63,6 +63,3 @@ My current areas of work include:
 </p>
 
 ---
-
-## 🌐 Portfolio
-🔗 **https://sitanshukr.vercel.app**
